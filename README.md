@@ -9,5 +9,7 @@ This repo is a fully functional auction app made with raw PHP. It was built foll
 - Automated Emails
 - Payment gateway integration (paypal)
 
+A demo is available at https://asouchereau.scweb.ca/web306/auction/index.php
+
 
 This repo was recreated from the original without sensitive information. To get the app working, you will have to provide database credentials and PayPal Client and Secret Keys in the App/Config/config.php file.
